@@ -44,13 +44,6 @@ A continuación, se muestran algunas capturas de pantalla de la interfaz de usua
 
 - Nombre: Valentina Blancon Salgado
 
----
-
-**¡Disfruta de Vibras y contribuye al desarrollo de un sistema de inicio de sesión y registro atractivo y funcional!**
-
-*Nota: Asegúrate de proporcionar capturas de pantalla y otros recursos necesarios en tu repositorio, además de completar la sección de instrucciones de uso para una experiencia completa para los usuarios que visiten tu proyecto en GitHub.*
-
-
 
 ### Cierre de la Aplicación
 
